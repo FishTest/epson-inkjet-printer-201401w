@@ -1,0 +1,36 @@
+Copyright (C) 2014  SEIKO EPSON Corporation
+
+ABSTRACT
+--------
+This software is a filter program used with Common UNIX Printing
+System (CUPS) from the Linux. This can supply the high quality print
+with Seiko Epson Color Ink Jet Printers.
+
+This printer driver is supporting the following printers.
+L456
+L455
+L366
+L365
+L362
+L360
+L312
+L310
+L222
+L220
+L132
+L130
+
+
+LICENSING
+---------
+This program is distributed under GNU Lesser General Public License version 2.1. 
+This program links the following object codes which are distributed under the conditions of 
+SEIKO EPSON CORPORATION SOFTWARE LICENSE AGREEMENT.
+ *libEpson_201401w.so.1.0.0
+ *libEpson_201401w.MT.so.1.0.0
+
+
+INSTALLATION
+---------
+For installation, please refer to below site:
+http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
